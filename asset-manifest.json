@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ny2022countdown/build/static/css/main.7d1b6edf.chunk.css",
+    "main.js": "/ny2022countdown/build/static/js/main.54c81c1e.chunk.js",
+    "main.js.map": "/ny2022countdown/build/static/js/main.54c81c1e.chunk.js.map",
+    "runtime-main.js": "/ny2022countdown/build/static/js/runtime-main.9ea851ea.js",
+    "runtime-main.js.map": "/ny2022countdown/build/static/js/runtime-main.9ea851ea.js.map",
+    "static/js/2.c72f0c68.chunk.js": "/ny2022countdown/build/static/js/2.c72f0c68.chunk.js",
+    "static/js/2.c72f0c68.chunk.js.map": "/ny2022countdown/build/static/js/2.c72f0c68.chunk.js.map",
+    "static/js/3.ca829f0d.chunk.js": "/ny2022countdown/build/static/js/3.ca829f0d.chunk.js",
+    "static/js/3.ca829f0d.chunk.js.map": "/ny2022countdown/build/static/js/3.ca829f0d.chunk.js.map",
+    "index.html": "/ny2022countdown/build/index.html",
+    "static/css/main.7d1b6edf.chunk.css.map": "/ny2022countdown/build/static/css/main.7d1b6edf.chunk.css.map",
+    "static/js/2.c72f0c68.chunk.js.LICENSE.txt": "/ny2022countdown/build/static/js/2.c72f0c68.chunk.js.LICENSE.txt",
+    "static/media/active.0630ad89.png": "/ny2022countdown/build/static/media/active.0630ad89.png",
+    "static/media/bg.f254e55b.mp4": "/ny2022countdown/build/static/media/bg.f254e55b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ea851ea.js",
+    "static/js/2.c72f0c68.chunk.js",
+    "static/css/main.7d1b6edf.chunk.css",
+    "static/js/main.54c81c1e.chunk.js"
+  ]
+}
