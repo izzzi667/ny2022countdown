@@ -7,7 +7,7 @@ const Timer =(props) => {
 	<h2 className="mb-4 display-3">
 		{props.days} {getNumEnding(props.days,['день','дня','дней'])}{' '}  
 		{props.hours} {getNumEnding(props.hours,['час','часа','часов'])}{' '}  
-		{props.minutes} {getNumEnding(props.hours,['минута','минуты','минут'])}{' '}   
+		{props.minutes} {getNumEnding(props.minutes,['минута','минуты','минут'])}{' '}   
 		{props.seconds}  {getNumEnding(props.seconds,['секуда','секунды','секунд'])} 
 	</h2></span>);
 	
