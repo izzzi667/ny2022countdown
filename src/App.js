@@ -75,10 +75,9 @@ function App() {
 
   return (
 		<div className={"mh-100 py-5 text-center text-white"} style={{position: 'relative', overflow: 'hidden'}} > 
-			<video autoPlay="autoplay" loop="loop" muted="muted" plays-inline="plays-inline" 
+			<video autoPlay="autoplay" loop="loop" muted="muted" plays-inline="plays-inline" playsinline 
 			style={{position: 'fixed', right:0,  bottom: 0, minWidth: '100%', minHeight: '100%', zIndex: -100}}>      
 			<source src={bgVideo} type="video/mp4" /> </video>
-      <audio autoPlay="autoplay" src={bgAudio} />
 			<div className="container-fluid py-5 bg-dark opacity-75">
 			  <div className="row">
 				  <div className="col-lg-8 col-md-10 mx-auto">
