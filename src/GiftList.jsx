@@ -6,13 +6,17 @@ import style from './Gift.module.css'
 
 const GiftList = (props) =>
 {
-    let giftArray = [];
-    for(let i=1;i<=31;i++){
+    const [giftList, setGiftList] = useState([]);
+    useEffect(() => {
+      let giftArray = [];
+      for(let i=1;i<=31;i++){
         giftArray.push(<Gift key={'gift'+i} num={i} status={-31+i+props.days<=0?true:false} gift={props.gifts.get(i)}/>)
-    }
-
+      }      
+      setGiftList(giftArray);
+    }, [props.days])
+    
     return(
-        <Row>{giftArray}</Row>
+        <Row>{giftList}</Row>
     );
 }
 
