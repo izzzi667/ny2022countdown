@@ -36,7 +36,7 @@ const Gift = (props) =>
     }
 
     return (<>
-        <Col><img src={activeGift} onClick={handleShow}/><br />{props.num} декабря</Col>
+        <Col><img className={style.gift} src={activeGift} onClick={handleShow}/><br />{props.num} декабря</Col>
         <Modal 
           show={show} 
           onHide={handleClose}       

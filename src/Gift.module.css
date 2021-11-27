@@ -1,4 +1,4 @@
-img:hover {
+.gift:hover {
     /* Start the shake animation and make the animation last for 0.5 seconds */
     animation: shake 1s;
   
