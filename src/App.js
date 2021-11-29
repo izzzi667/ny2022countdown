@@ -78,14 +78,14 @@ function App() {
 			<video autoPlay="autoplay" loop="loop" muted="muted" plays-inline="plays-inline" playsinline 
 			style={{position: 'fixed', right:0,  bottom: 0, minWidth: '100%', minHeight: '100%', zIndex: -100}}>      
 			<source src={bgVideo} type="video/mp4" /> </video>
-			<div className="container-fluid py-5 bg-dark opacity-75">
+			<div className="container-fluid py-5 bg-success opacity-75">
 			  <div className="row">
 				  <div className="col-lg-8 col-md-10 mx-auto">
             <Timer days={daysToNy}  hours={hoursToNy} minutes={minutesToNy} seconds={secondsToNy}/>
 				    <p className="lead mb-1">Каждый день мы публикуем подарки и задания. Нажмите по подарку для просмотра</p>				  
 				  </div>          
 			  </div>
-			</div>
+			</div><br />
       <Container><GiftList days={daysToNy} gifts={giftsMap} /></Container>
       
 		</div>
