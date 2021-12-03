@@ -1,26 +1,28 @@
 {
   "files": {
     "main.css": "/ny2022countdown/static/css/main.a4932113.chunk.css",
-    "main.js": "/ny2022countdown/static/js/main.e93d00c5.chunk.js",
-    "main.js.map": "/ny2022countdown/static/js/main.e93d00c5.chunk.js.map",
+    "main.js": "/ny2022countdown/static/js/main.05eaa406.chunk.js",
+    "main.js.map": "/ny2022countdown/static/js/main.05eaa406.chunk.js.map",
     "runtime-main.js": "/ny2022countdown/static/js/runtime-main.f4c41c0b.js",
     "runtime-main.js.map": "/ny2022countdown/static/js/runtime-main.f4c41c0b.js.map",
-    "static/js/2.a55495c0.chunk.js": "/ny2022countdown/static/js/2.a55495c0.chunk.js",
-    "static/js/2.a55495c0.chunk.js.map": "/ny2022countdown/static/js/2.a55495c0.chunk.js.map",
+    "static/js/2.adc019f7.chunk.js": "/ny2022countdown/static/js/2.adc019f7.chunk.js",
+    "static/js/2.adc019f7.chunk.js.map": "/ny2022countdown/static/js/2.adc019f7.chunk.js.map",
     "static/js/3.ca829f0d.chunk.js": "/ny2022countdown/static/js/3.ca829f0d.chunk.js",
     "static/js/3.ca829f0d.chunk.js.map": "/ny2022countdown/static/js/3.ca829f0d.chunk.js.map",
     "index.html": "/ny2022countdown/index.html",
     "static/css/main.a4932113.chunk.css.map": "/ny2022countdown/static/css/main.a4932113.chunk.css.map",
-    "static/js/2.a55495c0.chunk.js.LICENSE.txt": "/ny2022countdown/static/js/2.a55495c0.chunk.js.LICENSE.txt",
-    "static/media/active.0630ad89.png": "/ny2022countdown/static/media/active.0630ad89.png",
+    "static/js/2.adc019f7.chunk.js.LICENSE.txt": "/ny2022countdown/static/js/2.adc019f7.chunk.js.LICENSE.txt",
+    "static/media/active1.0630ad89.png": "/ny2022countdown/static/media/active1.0630ad89.png",
+    "static/media/active2.1a5758b3.png": "/ny2022countdown/static/media/active2.1a5758b3.png",
+    "static/media/active3.b64af9c9.png": "/ny2022countdown/static/media/active3.b64af9c9.png",
     "static/media/bg.f254e55b.mp4": "/ny2022countdown/static/media/bg.f254e55b.mp4",
     "static/media/bgsound.012c0512.mp3": "/ny2022countdown/static/media/bgsound.012c0512.mp3",
     "static/media/card.bd89631c.jpg": "/ny2022countdown/static/media/card.bd89631c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f4c41c0b.js",
-    "static/js/2.a55495c0.chunk.js",
+    "static/js/2.adc019f7.chunk.js",
     "static/css/main.a4932113.chunk.css",
-    "static/js/main.e93d00c5.chunk.js"
+    "static/js/main.05eaa406.chunk.js"
   ]
 }
