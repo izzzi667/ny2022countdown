@@ -2,7 +2,7 @@
   "name": "ny2022countdown",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://izzzi667.github.io/ny2022countdown",
+  "homepage": "https://ny2022countdown.vercel.app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^11.2.7",
