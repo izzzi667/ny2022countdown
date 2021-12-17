@@ -9,7 +9,7 @@ const GiftList = (props) =>
     useEffect(() => {
       let giftArray = [];
       let imgCount=1;
-      for(let i=15;i<=31;i++){
+      for(let i=20;i<=31;i++){
 
         giftArray.push(
         <Gift 

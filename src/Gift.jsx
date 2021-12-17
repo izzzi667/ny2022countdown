@@ -49,7 +49,6 @@ const Gift = (props) =>
           centered>
           <Modal.Body>
             <Col className='mh-100 py-5 text-center' style={{backgroundImage: `url(${card})`, height: '80vh'}}>
-              <h1 class="display-3">Сюрприз за {props.num} день</h1>
               <div dangerouslySetInnerHTML={createMarkup()} /><br /><br />
               <Button variant="secondary" onClick={handleClose}>
               Да!
