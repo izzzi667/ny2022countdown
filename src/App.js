@@ -51,7 +51,7 @@ function App() {
 
   useEffect(() => {
     let now = new Date();	
-    let nY = new Date('2021-01-01T00:00:00'); 
+    let nY = new Date('2022-01-01T00:00:00'); 
     let diff = (nY-now)/1000;
     var days        = Math.floor(diff/24/60/60);
     var hoursLeft   = Math.floor((diff) - (days*86400));
