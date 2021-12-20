@@ -50,6 +50,8 @@ const Gift = (props) =>
           <Modal.Body>
             <Col className='mh-100 py-5 text-center' style={{backgroundImage: `url(${card})`, height: '80vh'}}>
               <div dangerouslySetInnerHTML={createMarkup()} /><br /><br />
+              <small>*Подумайте, проанализируйте. На вопрос письменно отвечать не нужно. Он для осмысления наедине с собой)</small>
+              <br /><br />
               <Button variant="secondary" onClick={handleClose}>
               Закрыть
               </Button>          
